@@ -1,0 +1,19 @@
+
+body{
+    /* Código para navegadores modernos */
+background-image: linear-gradient(to right, #FFD700, #8A2BE2);
+
+/* Código para navegadores antigos */
+background-color: #FFD700;
+background-image: -webkit-linear-gradient(left, #FFD700, #9c27b0);
+background-image: -moz-linear-gradient(left, #FFD700, #9c27b0);
+background-image: -o-linear-gradient(left, #FFD700, #9c27b0);
+text-align: center;
+}
+button{
+    background-color:  #00B050.;
+
+}
+button:hover{
+    background-color: #00CED1 ;
+}
